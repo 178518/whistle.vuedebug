@@ -34,3 +34,16 @@ xnpm install -g whistle.protocol
 # 或
 xnpm install -g @org/whistle.protocol
 ```
+
+发布插件
+
+同发布正常的node模块，模块编写完毕，可以通过以下几种方式发布：
+
+公共的node模块，直接上传到npm仓库：
+
+```
+ # 登陆npm login后，在模块的根目录(package.json所在目录)执行
+ npm publish
+自建的npm仓库，有些公司会自建自己的仓库
+ xnpm publish
+``` 
