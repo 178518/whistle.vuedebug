@@ -1,5 +1,5 @@
 
-# 将所有请求转发到helloworld插件
-#/./ helloworld://
+# 将所有请求转发到vuedebug插件
+#/./ vuedebug://
 
-www.qq.com helloworld://
+i.alicdn.com/aefe-mobile-store vuedebug://http://127.0.0.1:8090/.build

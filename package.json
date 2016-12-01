@@ -1,28 +1,29 @@
 {  
-  "name": "whistle.helloworld", 
-  "version": "0.0.2",
-  "description": "hello whistle.plugin",
+  "name": "whistle.vuedebug",
+  "version": "0.0.1",
+  "description": "vue debug whistle.plugin",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/whistle-plugins/whistle.helloworld.git"
-  },
   "keywords": [
     "whistle",
     "plugin",
-    "hellworld"
+    "vue debug"
   ],
-  "author": "avenwu <avenwu@vip.qq.com>",
+  "author": "178518 <178518@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "git+https://github.com/whistle-plugins/whistle.helloworld/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/178518/whistle.vuedebug.git"
   },
-  "homepage": "https://github.com/whistle-plugins/whistle.helloworld#whistlehelloworld",
+  "bugs": {
+    "url": "https://github.com/178518/whistle.vuedebug/issues"
+  },
+  "homepage": "https://github.com/178518/whistle.vuedebug",
   "dependencies": {
     "express": "^4.13.4",
     "jquery": "^2.2.0",
     "socket.io": "^1.4.5",
-    "ws": "^1.0.1"
+    "ws": "^1.0.1",
+    "request": "^2.79.0"
   },
   "devDependencies": {
     "bootstrap": "^3.3.6",
