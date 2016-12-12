@@ -2,6 +2,10 @@
 
 把本地node模块link到全局目录：
 
+mac node 模块安装路径：/usr/local/lib/node_modules
+ 
+rules规则由whistle配置 
+
 ```
 $ npm link
 或 sudo npm link

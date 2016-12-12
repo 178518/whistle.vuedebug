@@ -1,5 +1,0 @@
-
-# 将所有请求转发到vuedebug插件
-#/./ vuedebug://
-
-i.alicdn.com/aefe-mobile-lego vuedebug://http://127.0.0.1:8090/.build
