@@ -1,6 +1,6 @@
 {  
   "name": "whistle.vuedebug",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vue debug whistle.plugin",
   "main": "index.js",
   "keywords": [
