@@ -11,7 +11,7 @@ $ npm link
 或 sudo npm link
 
 # 开启whistle的调试模式
-$ w2 run
+$ w2 run -p 8888
 ```
 
 这样whistle会自动加载改插件，如果插件有代码更新，需要触发修改package.json这个文件，比如加个空格，或者直接加个字段，每次修改下这个字段，whistle会检查package.json是否有更改，如果更改的话会自动重启。
